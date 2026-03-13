@@ -44,3 +44,6 @@ CSS_FILE = "custom.css"
 
 MENUITEMS = [("Home", "index"), ("Nightshade", "nightshade"), ("Kigenishi", "kigenishi"), ("Tarishu", "tarishu"), ("Standalone", ""), ("Fanworks", "fanworks")]
 MENUITEMS.append(("Updates", "updates"))
+
+RELATIVE_URLS = True
+DELETE_OUTPUT_DIRECTORY = True
