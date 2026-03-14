@@ -1,9 +1,9 @@
 Title: Mysteries of Akiramine
 Category: Nightshade
-save_as: nightshade.mysteriesofakiramine.html
+slug: mysteriesofakiramine
 
 <div class="bookdetails">
-	<div class="promoimg"><img src="images/cover_mysteriesofakiramine.png"></div>
+	<div class="promoimg"><img src="/images/cover_mysteriesofakiramine.png"></div>
 	<div class="info"><h1>Mysteries of Akiramine</h1><div class="info2">TBA</div></div>
 </div>
 

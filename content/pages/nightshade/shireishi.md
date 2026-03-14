@@ -1,9 +1,9 @@
 Title: Shireishi
 Category: Nightshade
-save_as: nightshade.shireishi.html
+slut: shireishi
 
 <div class="bookdetails">
-	<div class="promoimg"><img src="images/cover_shireishi.png"></div>
+	<div class="promoimg"><img src="/images/cover_shireishi.png"></div>
 	<div class="info"><h1>Shireishi</h1><div class="info2"><a href="https://books2read.com/b/bzxwN2">Where to Read</a></div><p>Cover Design: Hollie Moir</p></div>
 </div>
 

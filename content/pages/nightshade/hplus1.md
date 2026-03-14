@@ -1,9 +1,9 @@
 Title: h+ Cybernetic Daily Life
 Category: Nightshade
-save_as: nightshade.hplus1.html
+slug: hplus1
 
 <div class="bookdetails">
-	<div class="promoimg"><img src="images/cover_hplus1.jpg"></div>
+	<div class="promoimg"><img src="/images/cover_hplus1.jpg"></div>
 	<div class="info"><h1>
 	h+ Cybernetic Daily Life</h1><div class="info2"><a href="https://books2read.com/b/38N5wO">Where to Read</a></div><p>Cover Design: 7AHO</p></div>
 </div>

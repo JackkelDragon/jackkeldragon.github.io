@@ -1,9 +1,9 @@
 Title: The Last Respite
 Category: Tarishu
-save_as: tarishu.tlr.html
+slug: thelastrespite
 
 <div class="bookdetails">
-	<div class="promoimg"><img src="images/cover_tlr.jpg"></div>
+	<div class="promoimg"><img src="/images/cover_tlr.jpg"></div>
 	<div class="info"><h1>The Last Respite</h1><div class="info2"><a href="https://books2read.com/b/mV5Zl2">Where to Read</a></div><p>Cover Design: KushiroJin</p></div>
 </div>
 

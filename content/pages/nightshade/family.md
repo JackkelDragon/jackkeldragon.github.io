@@ -1,9 +1,9 @@
-Title: Family
-Category: Nightshade
-save_as: nightshade.family.html
+title: Family
+category: Nightshade
+slug: family
 
 <div class="bookdetails">
-	<div class="promoimg"><img src="images/cover_family.jpg"></div>
+	<div class="promoimg"><img src="/images/cover_family.jpg"></div>
 	<div class="info"><h1>Family</h1><div class="info2"><a href="https://books2read.com/b/mloeEP">Where to Read</a></div><p>Cover Design: 7AHO</p></div>
 </div>
 

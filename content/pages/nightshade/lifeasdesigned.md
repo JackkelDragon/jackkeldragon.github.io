@@ -1,15 +1,15 @@
 Title: Life as Designed
 Category: Nightshade
-save_as: nightshade.lifeasdesigned.html
+slug: lifeasdesigned
 
 <div class="gamedetails">
-	<div class="promoimg"><img src="images/cover_lifeasdesigned.png"></div>
+	<div class="promoimg"><img src="/images/cover_lifeasdesigned.png"></div>
 	<div class="info"><h1>Life as Designed</h1>
 		<p>Release Date: August 2024<br>
 			Current Version: v1<br>
 			Price: $6 USD</p>
-		<a href="https://jackkel-dragon.itch.io/life-as-designed"><img src="images/itchbadge.png" width=180></a>
-		<a href="https://store.steampowered.com/app/1602570/Life_as_Designed/"><img src="images/steambadge.png" width=180></a>
+		<a href="https://jackkel-dragon.itch.io/life-as-designed"><img src="/images/itchbadge.png" width=180></a>
+		<a href="https://store.steampowered.com/app/1602570/Life_as_Designed/"><img src="/images/steambadge.png" width=180></a>
 	</div>
 </div>
 

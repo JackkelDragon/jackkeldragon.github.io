@@ -1,6 +1,6 @@
 Title: Izumi Kawano
-Category: Art References
-save_as: character_references.izumi.html
+Category: Character References
+slug: izumi
 
 <div class="refdetails">
 	<div class="info">
@@ -23,39 +23,39 @@ save_as: character_references.izumi.html
 	<div class="refgallery">
 		<ul>
 		  <li>
-		    <img src="images/references/izumi1.png"></img>
+		    <img src="/images/references/izumi1.png"></img>
 		    <p>RN Casual</p>
 		  </li>
 		  <li>
-		    <img src="images/references/izumi9.png"></img>
+		    <img src="/images/references/izumi9.png"></img>
 		    <p>RN Tracksuit</p>
 		  </li>
 		  <li>
-		    <img src="images/references/izumi2.png"></img>
+		    <img src="/images/references/izumi2.png"></img>
 		    <p>FN Casual</p>
 		  </li>
 		  <li>
-		    <img src="images/references/izumi7.png"></img>
+		    <img src="/images/references/izumi7.png"></img>
 		    <p>FN Winter</p>
 		  </li>
 		  <li>
-		    <img src="images/references/izumi3.png"></img>
+		    <img src="/images/references/izumi3.png"></img>
 		    <p>FN Tracksuit</p>
 		  </li>
 		  <li>
-		    <img src="images/references/izumi8.png"></img>
+		    <img src="/images/references/izumi8.png"></img>
 		    <p>FN Underwear</p>
 		  </li>
 		  <li>
-		    <img src="images/references/izumi5.png"></img>
+		    <img src="/images/references/izumi5.png"></img>
 		    <p>BN Uniform</p>
 		  </li>
 		  <li>
-		    <img src="images/references/izumi4.png"></img>
+		    <img src="/images/references/izumi4.png"></img>
 		    <p>BN Sports Uniform</p>
 		  </li>
 		  <li>
-		    <img src="images/references/izumi6.png"></img>
+		    <img src="/images/references/izumi6.png"></img>
 		    <p>BN Dress</p>
 		  </li>
 		</ul>

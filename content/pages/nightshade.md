@@ -8,21 +8,21 @@ These stories take place in the Nightshade universe, a setting based on our worl
 
 #Books
 
-- [Shireishi](nightshade.shireishi)
-- [The Decision](nightshade.thedecision)
-- [Family](nightshade.family)
-- [Those That Linger: GhostSense](nightshade.ttlgs)
-- [h+ Cybernetic Daily Life](nightshade.hplus1)
+- [Shireishi]({filename}nightshade/shireishi.md)
+- [The Decision]({filename}nightshade/thedecision.md)
+- [Family]({filename}nightshade/family.md)
+- [Those That Linger: GhostSense]({filename}nightshade/ttlgs.md)
+- [h+ Cybernetic Daily Life]({filename}nightshade/hplus1.md)
 
 #Games
 
-- [Eldritch Academy](nightshade.eldritchacademy)
-- [Eldritch University](nightshade.eldritchuniversity)
-- [Blooming Nightshade](nightshade.bloomingnightshade)
-- [Flowering Nightshade](nightshade.floweringnightshade)
-- [Life as Designed](nightshade.lifeasdesigned)
+- [Eldritch Academy]({filename}nightshade/eldritchacademy.md)
+- [Eldritch University]({filename}nightshade/eldritchuniversity.md)
+- [Blooming Nightshade]({filename}nightshade/bloomingnightshade.md)
+- [Flowering Nightshade]({filename}nightshade/floweringnightshade.md)
+- [Life as Designed]({filename}nightshade/lifeasdesigned.md)
 
 #Tentative Projects
 
-- [Mysteries of Akiramine](nightshade.mysteriesofakiramine)
-- [Those That Linger](nightshade.ttl)
+- [Mysteries of Akiramine]({filename}nightshade/mysteriesofakiramine.md)
+- [Those That Linger]({filename}nightshade/ttl.md)

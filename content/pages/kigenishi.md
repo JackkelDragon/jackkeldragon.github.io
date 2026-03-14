@@ -11,7 +11,7 @@ These articles provide information regarding the Kigenishi setting. In the case 
 
 #Main Stories
 
-- [The Red-Haired Maiden](kigenishi.rhm)
+- [The Red-Haired Maiden]({filename}kigenishi/rhm.md)
 - HBW (RHM2)
 - TGP
 

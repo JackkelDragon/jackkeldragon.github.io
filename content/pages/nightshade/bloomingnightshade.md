@@ -1,15 +1,15 @@
 Title: Blooming Nightshade
 Category: Nightshade
-save_as: nightshade.bloomingnightshade.html
+slug: bloomingnightshade
 
 <div class="gamedetails">
-	<div class="promoimg"><img src="images/cover_bloomingnightshade.png"></div>
+	<div class="promoimg"><img src="/images/cover_bloomingnightshade.png"></div>
 	<div class="info"><h1>Blooming Nightshade</h1>
 		<p>Release Date: August 2019<br>
 			Current Version: v12<br>
 			Price: Free/Donation</p>
-		<a href="https://jackkel-dragon.itch.io/blooming-nightshade"><img src="images/itchbadge.png" width=180></a>
-		<a href="https://store.steampowered.com/app/1148400/Blooming_Nightshade/"><img src="images/steambadge.png" width=180></a>
+		<a href="https://jackkel-dragon.itch.io/blooming-nightshade"><img src="/images/itchbadge.png" width=180></a>
+		<a href="https://store.steampowered.com/app/1148400/Blooming_Nightshade/"><img src="/images/steambadge.png" width=180></a>
 	</div>
 </div>
 

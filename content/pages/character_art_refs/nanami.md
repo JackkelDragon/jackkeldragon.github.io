@@ -1,6 +1,6 @@
 Title: Nanami Kobayashi
-Category: Art References
-save_as: character_references.nanami.html
+Category: Character References
+slug: nanami
 
 <div class="refdetails">
 	<div class="info">
@@ -23,31 +23,31 @@ save_as: character_references.nanami.html
 	<div class="refgallery">
 		<ul>
 		  <li>
-		    <img src="images/references/nanami3.png"></img>
+		    <img src="/images/references/nanami3.png"></img>
 		    <p>RN Casual</p>
 		  </li>
 		  <li>
-		    <img src="images/references/nanami4.png"></img>
+		    <img src="/images/references/nanami4.png"></img>
 		    <p>FN Casual</p>
 		  </li>
 		  <li>
-		    <img src="images/references/nanami7.png"></img>
+		    <img src="/images/references/nanami7.png"></img>
 		    <p>FN Winter</p>
 		  </li>
 		  <li>
-		    <img src="images/references/nanami5.png"></img>
+		    <img src="/images/references/nanami5.png"></img>
 		    <p>FN Work Uniform</p>
 		  </li>
 		  <li>
-		    <img src="images/references/nanami6.png"></img>
+		    <img src="/images/references/nanami6.png"></img>
 		    <p>FN Underwear</p>
 		  </li>
 		  <li>
-		    <img src="images/references/nanami1.png"></img>
+		    <img src="/images/references/nanami1.png"></img>
 		    <p>BN Uniform</p>
 		  </li>
 		  <li>
-		    <img src="images/references/nanami2.png"></img>
+		    <img src="/images/references/nanami2.png"></img>
 		    <p>BN Casual</p>
 		  </li>
 		</ul>

@@ -1,16 +1,16 @@
 Title: Eldritch Academy
 Category: Nightshade
-save_as: nightshade.eldritchacademy.html
+slug: eldritchacademy
 
 <div class="gamedetails">
-	<div class="promoimg"><img src="images/cover_eldritchacademy.png"></div>
+	<div class="promoimg"><img src="/images/cover_eldritchacademy.png"></div>
 	<div class="info"><h1>Eldritch Academy</h1>
 		<p>Release Date: January 2019<br>
 		Steam Release Date: March 2019<br>
 		Current Version: v3<br>
 		Price: $12 USD</p>
-		<a href="https://jackkel-dragon.itch.io/eldritch-academy"><img src="images/itchbadge.png" width=180></a>
-		<a href="https://store.steampowered.com/app/1032580/Eldritch_Academy/"><img src="images/steambadge.png" width=180></a>
+		<a href="https://jackkel-dragon.itch.io/eldritch-academy"><img src="/images/itchbadge.png" width=180></a>
+		<a href="https://store.steampowered.com/app/1032580/Eldritch_Academy/"><img src="/images/steambadge.png" width=180></a>
 	</div>
 </div>
 

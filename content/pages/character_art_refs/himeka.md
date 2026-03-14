@@ -1,6 +1,6 @@
 Title: Himeka Uchida
-Category: Art References
-save_as: character_references.himeka.html
+Category: Character References
+slug: himeka
 
 <div class="refdetails">
 	<div class="info">
@@ -23,27 +23,27 @@ save_as: character_references.himeka.html
 	<div class="refgallery">
 		<ul>
 		  <li>
-		    <img src="images/references/himeka1.png"></img>
+		    <img src="/images/references/himeka1.png"></img>
 		    <p>RN Casual</p>
 		  </li>
 		  <li>
-		    <img src="images/references/himeka6.png"></img>
+		    <img src="/images/references/himeka6.png"></img>
 		    <p>RN Formal</p>
 		  </li>
 		  <li>
-		    <img src="images/references/himeka2.png"></img>
+		    <img src="/images/references/himeka2.png"></img>
 		    <p>FN Casual</p>
 		  </li>
 		  <li>
-		    <img src="images/references/himeka3.png"></img>
+		    <img src="/images/references/himeka3.png"></img>
 		    <p>FN Winter</p>
 		  </li>
 		  <li>
-		    <img src="images/references/himeka4.png"></img>
+		    <img src="/images/references/himeka4.png"></img>
 		    <p>FN Work Uniform</p>
 		  </li>
 		  <li>
-		    <img src="images/references/himeka5.png"></img>
+		    <img src="/images/references/himeka5.png"></img>
 		    <p>FN Underwear</p>
 		  </li>
 		</ul>

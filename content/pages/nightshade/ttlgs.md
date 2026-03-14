@@ -1,9 +1,9 @@
 Title: Those That Linger: GhostSense
 Category: Nightshade
-save_as: nightshade.ttlgs.html
+slug: thosethatlinger-ghostsense
 
 <div class="bookdetails">
-	<div class="promoimg"><img src="images/cover_ttlgs.jpg"></div>
+	<div class="promoimg"><img src="/images/cover_ttlgs.jpg"></div>
 	<div class="info"><h1>Those That Linger: GhostSense</h1><div class="info2"><a href="https://books2read.com/b/mloeEP">Where to Read</a></div><p>Cover Design: 7AHO</p></div>
 </div>
 
