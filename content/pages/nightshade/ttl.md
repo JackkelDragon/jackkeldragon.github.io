@@ -1,6 +1,6 @@
 Title: Those That Linger
 Category: Nightshade
-slut: thosethatlinger
+slug: thosethatlinger
 
 <div class="bookdetails">
 	<div class="promoimg"><img src="/images/cover_ttl.png"></div>
