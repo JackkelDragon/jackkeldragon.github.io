@@ -163,3 +163,7 @@
 .refgallery li::scroll-marker:target-current {
   background-color: black;
 }
+
+.refgallery img {
+  height: 360px;
+}

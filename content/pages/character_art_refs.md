@@ -6,83 +6,22 @@ This page contains reference information that might be useful when creating art 
 
 <font color="red">*This page is currently a work in progress, and will remain so for the foreseeable future.*</font>
 
-*Click on a character’s name to expand/collapse their details, if available.*
-
 ***
 
 #Blooming Nightshade
 *Characters originating from Blooming Nightshade or its sequel stories.*
 
-<details class="refdetailsbg_bn">
-	<summary>Himeka Uchida</summary>
-	<div class="refdetails">
-		<div class="info">
-			<table>
-				<tr><td>Gender</td><td>♀</td></tr>
-				<tr><td>Height</td><td>173 cm</td></tr>
-				<tr><td>Bust</td><td>D (Large)</td></tr>
-				<tr><td>Birthdate</td><td>February 26, 1999</td></tr>
-				<tr><td>Kanji Spelling</td><td>内田姫香</td></tr>
-				<tr><td>Reference Age(s)</td><td>16 (BN) 21~22 (FN)</td></tr>
-				<tr><td>Orientation</td><td>♀</td></tr>
-			</table>
-			<hr>
-			<table>
-				<tr><td>Hair Color</td><td>#9a88a4</td></tr>
-				<tr><td>Eye Color</td><td>#4b5c6a</td></tr>
-				<tr><td>Skin Tone</td><td>#f0d1bb</td></tr>
-			</table>
-		</div>
-		<div class="gallery">
-			<div class="refgallery">
-				<ul>
-				  <li>
-				    <img src="images/references/himeka/ref1.png"></img>
-				    <p>RN Casual Outfit</p>
-				  </li>
-				  <li>
-				    <h2>Page 2</h2>
-				  </li>
-				</ul>
-				</div>
-		</div>
-	</div>
-{!test.md!}
-</details>
-
-##Himeka Uchida
-<div class="refdetails">
-	<div class="info">
-		<table>
-			<tr><td>Gender</td><td>♀</td></tr>
-			<tr><td>Height</td><td>173 cm</td></tr>
-			<tr><td>Bust</td><td>D (Large)</td></tr>
-			<tr><td>Birthdate</td><td>February 26, 1999</td></tr>
-			<tr><td>Kanji Spelling</td><td>内田姫香</td></tr>
-			<tr><td>Reference Age(s)</td><td>16 (BN) 21~22 (FN)</td></tr>
-			<tr><td>Orientation</td><td>♀</td></tr>
-		</table>
-		<hr>
-		<table>
-			<tr><td>Hair Color</td><td>#9a88a4</td></tr>
-			<tr><td>Eye Color</td><td>#4b5c6a</td></tr>
-			<tr><td>Skin Tone</td><td>#f0d1bb</td></tr>
-		</table>
-	</div>
-	<div class="refgallery">
-		<ul>
-		  <li>
-		    <img src="images/references/himeka/ref1.png"></img>
-		    <p>RN Casual Outfit</p>
-		  </li>
-		  <li>
-		    <h2>Page 2</h2>
-		  </li>
-		</ul>
-	</div>
-</div>
-
-{!test.md!}
+- [Himeka Uchida](character_references.himeka)
+- [Izumi Kawano](character_references.izumi)
+- [Kiyomi Ito](character_references.kiyomi)
+- [Nanami Kobayashi](character_references.nanami)
+- [Atsuko Aoki](character_references.atsuko)
+- [Kiku Moritani](character_references.kiku)
+- [Shiori Goto](character_references.shiori)
+- [Orino Murakami](character_references.orino)
+- [Yae Imai](character_references.yae)
+- [Sakura Maruyama](character_references.sakura)
+- [Ichika Uchida](character_references.ichika)
 
 ***
 

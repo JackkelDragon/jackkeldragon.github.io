@@ -44,9 +44,10 @@ CSS_FILE = "custom.css"
 
 MENUITEMS = [("Home", "index"), ("Nightshade", "nightshade"), ("Kigenishi", "kigenishi"), ("Tarishu", "tarishu"), ("Standalone", ""), ("Fanworks", "fanworks")]
 MENUITEMS.append(("Streaming Guidelines", "streaming_guidelines"))
+MENUITEMS.append(("Art References", "character_references"))
 MENUITEMS.append(("Updates", "updates"))
 
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 DELETE_OUTPUT_DIRECTORY = True
 
 ## https://github.com/pelican-plugins/markdown-include
