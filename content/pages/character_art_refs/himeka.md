@@ -24,19 +24,23 @@ save_as: character_references.himeka.html
 		<ul>
 		  <li>
 		    <img src="../images/references/himeka1.png"></img>
-		    <p>RN Casual Outfit</p>
+		    <p>RN Casual</p>
+		  </li>
+		  <li>
+		    <img src="../images/references/himeka6.png"></img>
+		    <p>RN Formal</p>
 		  </li>
 		  <li>
 		    <img src="../images/references/himeka2.png"></img>
-		    <p>FN Casual Outfit</p>
+		    <p>FN Casual</p>
 		  </li>
 		  <li>
 		    <img src="../images/references/himeka3.png"></img>
-		    <p>FN Winter Outfit</p>
+		    <p>FN Winter</p>
 		  </li>
 		  <li>
 		    <img src="../images/references/himeka4.png"></img>
-		    <p>FN Work Outfit</p>
+		    <p>FN Work Uniform</p>
 		  </li>
 		  <li>
 		    <img src="../images/references/himeka5.png"></img>

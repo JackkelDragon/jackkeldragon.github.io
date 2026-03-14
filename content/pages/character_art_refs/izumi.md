@@ -24,10 +24,39 @@ save_as: character_references.izumi.html
 		<ul>
 		  <li>
 		    <img src="../images/references/izumi1.png"></img>
-		    <p>RN Casual Outfit</p>
+		    <p>RN Casual</p>
 		  </li>
 		  <li>
-		    <h2>Page 2</h2>
+		    <img src="../images/references/izumi9.png"></img>
+		    <p>RN Tracksuit</p>
+		  </li>
+		  <li>
+		    <img src="../images/references/izumi2.png"></img>
+		    <p>FN Casual</p>
+		  </li>
+		  <li>
+		    <img src="../images/references/izumi7.png"></img>
+		    <p>FN Winter</p>
+		  </li>
+		  <li>
+		    <img src="../images/references/izumi3.png"></img>
+		    <p>FN Tracksuit</p>
+		  </li>
+		  <li>
+		    <img src="../images/references/izumi8.png"></img>
+		    <p>FN Underwear</p>
+		  </li>
+		  <li>
+		    <img src="../images/references/izumi5.png"></img>
+		    <p>BN Uniform</p>
+		  </li>
+		  <li>
+		    <img src="../images/references/izumi4.png"></img>
+		    <p>BN Sports Uniform</p>
+		  </li>
+		  <li>
+		    <img src="../images/references/izumi6.png"></img>
+		    <p>BN Dress</p>
 		  </li>
 		</ul>
 	</div>
