@@ -11,10 +11,8 @@
 }
 
 .refdetails {
-  display: grid;
-  grid-template-areas:
-    "info refgallery";
-  grid-template-columns: 1fr 1fr;
+  display: flex;
+  flex-wrap: wrap;
   gap: 3px;
   padding: 5px;
 }
@@ -22,7 +20,7 @@
   padding: 10px;
 }
 .refdetails div.info {
-  grid-area: info;
+  flex: 50%;
   text-align: center;
   justify-content: center;
 }
@@ -30,7 +28,15 @@
 .refdetails div.refgallery {
   grid-area: refgallery;
   text-align: center;
-  justify-content: center;
+  justify-content: center; /*vert*/
+  align-items: center; /*HORI?*/
+}
+
+/* Responsive layout - makes a one column-layout instead of a two-column layout */
+@media (max-width: 800px) {
+  .refdetails div.info {
+    flex: 100%;
+  }
 }
 
 .refdetails table {
@@ -67,7 +73,7 @@
   font-size: 1.7rem;
 }
 .refgallery ul {
-  width: 18vw;
+  width: 260px;
   height: auto;
   padding: 20px;
   display: flex;
@@ -130,12 +136,12 @@
 }
 .refgallery ul::scroll-button(left) {
   right: calc(anchor(left) - 70px);
-  bottom: calc(anchor(top) + 1px);
+  bottom: calc(anchor(top) - 44px);
 }
 
 .refgallery ul::scroll-button(right) {
   left: calc(anchor(right) - 70px);
-  bottom: calc(anchor(top) + 1px);
+  bottom: calc(anchor(top) - 44px);
 }
 .refgallery ul {
   scroll-marker-group: after;
@@ -165,5 +171,7 @@
 }
 
 .refgallery img {
-  height: 360px;
+  max-height: 360px;
+  min-width: 240px;
+  object-fit: contain;
 }
