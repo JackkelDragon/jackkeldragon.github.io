@@ -20,22 +20,22 @@ Most of the projects that have been fully announced have been wrapped up over th
 
 Most of my creative efforts lately have been focused on some projects that haven’t been announced yet, though some of them may almost be ready to be fully introduced. I’ll go over a few significant ones below:
 
-![An argument between sisters.](/images/rn_promo_001.png)
+![An argument between sisters.](/images/posts/rn_promo_001.png)
 *An argument between sisters.*
 
 I’ve teased a few times before that I’m working on a project that continues the story of the characters from Blooming Nightshade and Flowering Nightshade. I still don’t think it’s ready for a full reveal and announcement, but I do like how the game is shaping up. The game is a bit different from the other two, and not just from a visual perspective (a different main artist and a focus on widescreen presentation rather than swappable orientation). In particular, the stories function more like the “side stories” of Flowering Nightshade, each taking place in their own continuity. While most of the planned stories are still linear with a single ending, there are also a few that have multiple endings. I may consider releasing a demo version once the first few stories are finished, similar to the early releases of the previous games, but I first need to decide how to handle certain details in a demo version (such as a new version of FN’s Sim Akiramine that will not be entirely complete anytime soon).
 
-![A very early look at Hyeguk in the prototype.](/images/sot_promo_001.png)
+![A very early look at Hyeguk in the prototype.](/images/posts/sot_promo_001.png)
 *A very early look at Hyeguk in the prototype.*
 
 I’ve also teased a few images on Bluesky of a prototype I’ve been working on for a game set in Tarishu, the setting of The Last Respite. Due to my limited ability to commission new game art at the moment, anything I try to show in screenshots from the game will look very barebones, but a lot of the planned features are actually already prototyped. This project is a bit different from most of my other projects, since while it does have a story in mind, it is ultimately a more sandbox-style game in the vein of Star Traders or Uncharted Waters.
 
-![Concept art of a special forces soldier with powered armor and a HUD-enabled helmet.](/images/bs_promo_001.png)
+![Concept art of a special forces soldier with powered armor and a HUD-enabled helmet.](/images/posts/bs_promo_001.png)
 *Concept art of a special forces soldier with powered armor and a HUD-enabled helmet.*
 
 In spring of 2024, I created a concept for some experiments using chatbots based on a sort of “angst-porn” dystopia (inspired by Cavalry Girls, Republic Commando, Halo, etc.). When certain aspects of the real world began to mirror and overshadow the grimness of this concept, I decided to pull out some of the old snippets and revise them into a proper story that criticizes the callous and ignorant mindsets that seem to dominate our world. Set in a standalone universe, the first half of the planned storyline is now nearly complete. I’m still not completely certain if or how I will release the story, since it wasn’t originally meant to be published. That said, I might consider putting out the first arc of the story as a sort of “volume one”, to eventually be followed by the second half when it is finished (and then both would be combined for any print version).
 
-![Mizuyo, a little over a year after Guwon Day.](/images/hbw_mizuyo_promo.webp)<br>
+![Mizuyo, a little over a year after Guwon Day.](/images/posts/hbw_mizuyo_promo.webp)<br>
 *Mizuyo, a little over a year after Guwon Day.*
 
 Lastly, there’s the sequel story to The Red-Haired Maiden, which has been mentioned on-and-off since the release of the original book and has been outlined since 2022 or 2023. I think I keep putting it off out of worry that I won’t do it justice, because its message seems to become more and more topical to the real world as time passes. I want to try to get back to work on drafting more of the story in 2026, hopefully even finishing sometime during that year, if that is possible without sacrificing quality.
