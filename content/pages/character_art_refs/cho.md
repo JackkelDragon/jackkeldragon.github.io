@@ -10,7 +10,7 @@ slug: cho
 			<tr><td>Bust</td><td>B (Small)</td></tr>
 			<tr><td>Birthdate</td><td>September 17, 1999</td></tr>
 			<tr><td>Kanji Spelling</td><td>福田蝶</td></tr>
-			<tr><td>Reference Age(s)</td><td>15 (EA) 25 (LD)</td></tr>
+			<tr><td>Reference Age(s)</td><td>15 (EA)<br>25 (LD)</td></tr>
 			<tr><td>Orientation</td><td>♀</td></tr>
 		</table>
 		<hr>
@@ -25,7 +25,15 @@ slug: cho
 		<ul>
 		  <li>
 		    <img src="/images/references/cho1.png"></img>
-		    <p>WIP</p>
+		    <p>LD Casual (Blouse/Pants)</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/cho2.png"></img>
+		    <p>LD Casual (Dress)</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/cho3.png"></img>
+		    <p>LD Underwear</p>
 		  </li>
 		</ul>
 	</div>

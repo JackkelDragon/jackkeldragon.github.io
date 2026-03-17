@@ -10,7 +10,7 @@ slug: himeka
 			<tr><td>Bust</td><td>D (Large)</td></tr>
 			<tr><td>Birthdate</td><td>February 26, 1999</td></tr>
 			<tr><td>Kanji Spelling</td><td>内田姫香</td></tr>
-			<tr><td>Reference Age(s)</td><td>16 (BN) 21~22 (FN)</td></tr>
+			<tr><td>Reference Age(s)</td><td>16 (BN)<br>21~22 (FN)<br>~31 (RN)</td></tr>
 			<tr><td>Orientation</td><td>♀</td></tr>
 		</table>
 		<hr>
@@ -40,11 +40,19 @@ slug: himeka
 		  </li>
 		  <li>
 		    <img src="/images/references/himeka4.png"></img>
-		    <p>FN Work Uniform</p>
+		    <p>FN Work</p>
 		  </li>
 		  <li>
 		    <img src="/images/references/himeka5.png"></img>
-		    <p>FN Underwear</p>
+		    <p>FN Underwear, Loose Hair</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/himeka7.png"></img>
+		    <p>BN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/himeka8.png"></img>
+		    <p>BN Uniform</p>
 		  </li>
 		</ul>
 	</div>

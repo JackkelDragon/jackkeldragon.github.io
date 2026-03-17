@@ -10,7 +10,7 @@ slug: kiku
 			<tr><td>Bust</td><td>B (Small)</td></tr>
 			<tr><td>Birthdate</td><td>April 16, 1997</td></tr>
 			<tr><td>Kanji Spelling</td><td>森谷帰久</td></tr>
-			<tr><td>Reference Age(s)</td><td>18 (BN) 23~24 (FN)</td></tr>
+			<tr><td>Reference Age(s)</td><td>18 (BN)<br>23~24 (FN)<br>~33 (RN)</td></tr>
 			<tr><td>Orientation</td><td>♀/♂</td></tr>
 		</table>
 		<hr>
@@ -23,8 +23,32 @@ slug: kiku
 	<div class="refgallery">
 		<ul>
 		  <li>
+		    <img src="/images/references/kiku7.png"></img>
+		    <p>RN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kiku3.png"></img>
+		    <p>FN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kiku4.png"></img>
+		    <p>FN Winter</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kiku5.png"></img>
+		    <p>FN Work</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kiku6.png"></img>
+		    <p>FN Formal</p>
+		  </li>
+		  <li>
 		    <img src="/images/references/kiku1.png"></img>
-		    <p>WIP</p>
+		    <p>BN Uniform</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kiku2.png"></img>
+		    <p>BN Casual</p>
 		  </li>
 		</ul>
 	</div>

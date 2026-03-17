@@ -10,7 +10,7 @@ slug: kyoko
 			<tr><td>Bust</td><td>C (Big)</td></tr>
 			<tr><td>Birthdate</td><td>November 23, 1982</td></tr>
 			<tr><td>Kanji Spelling</td><td>林杏子</td></tr>
-			<tr><td>Reference Age(s)</td><td>32 (Shireishi) 37 (FN)</td></tr>
+			<tr><td>Reference Age(s)</td><td>32 (Shireishi)<br>37 (FN)<br>~47 (RN)</td></tr>
 			<tr><td>Orientation</td><td>♀/♂</td></tr>
 		</table>
 		<hr>
@@ -24,7 +24,15 @@ slug: kyoko
 		<ul>
 		  <li>
 		    <img src="/images/references/kyoko1.png"></img>
-		    <p>WIP</p>
+		    <p>RN Casual, Graying Hair</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kyoko2.png"></img>
+		    <p>RN Underwear, Loose Hair</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kyoko3.png"></img>
+		    <p>FN Casual</p>
 		  </li>
 		</ul>
 	</div>

@@ -10,7 +10,7 @@ slug: miyuki
 			<tr><td>Bust</td><td>B (Small)</td></tr>
 			<tr><td>Birthdate</td><td>March 14, 1964</td></tr>
 			<tr><td>Kanji Spelling</td><td>高木美雪</td></tr>
-			<tr><td>Reference Age(s)</td><td>51 (EA) 54 (EU)</td></tr>
+			<tr><td>Reference Age(s)</td><td>51 (EA)<br>54 (EU)</td></tr>
 			<tr><td>Orientation</td><td>n/a</td></tr>
 		</table>
 		<hr>
@@ -25,7 +25,11 @@ slug: miyuki
 		<ul>
 		  <li>
 		    <img src="/images/references/miyuki1.png"></img>
-		    <p>WIP</p>
+		    <p>EU Appearance</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/miyuki2.png"></img>
+		    <p>EA v1 Uniform</p>
 		  </li>
 		</ul>
 	</div>

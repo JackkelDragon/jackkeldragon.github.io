@@ -23,7 +23,11 @@ slug: ayuka
 		<ul>
 		  <li>
 		    <img src="/images/references/ayuka1.png"></img>
-		    <p>WIP</p>
+		    <p>LD Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/ayuka2.png"></img>
+		    <p>LD Underwear</p>
 		  </li>
 		</ul>
 	</div>

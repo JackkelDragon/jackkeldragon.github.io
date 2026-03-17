@@ -24,14 +24,18 @@ slug: aoi
 		<ul>
 		  <li>
 		    <img src="/images/references/aoi1.png"></img>
-		    <p>WIP</p>
+		    <p>EA v1 Uniform</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/aoi2.png"></img>
+		    <p>Concept Art (Hiragi-HOUX)</p>
 		  </li>
 		</ul>
 	</div>
 </div>
 
 #Important Notes
-TBA
+TBA (plain and unassuming appearance, forgettable face)
 
 #Credits
 Original Design: Hiragi-HOUX<br>

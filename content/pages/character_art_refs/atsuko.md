@@ -10,7 +10,7 @@ slug: atsuko
 			<tr><td>Bust</td><td>B (Small)</td></tr>
 			<tr><td>Birthdate</td><td>	May 8, 1999</td></tr>
 			<tr><td>Kanji Spelling</td><td>青木篤子</td></tr>
-			<tr><td>Reference Age(s)</td><td>16 (BN) 20~22 (FN)</td></tr>
+			<tr><td>Reference Age(s)</td><td>16 (BN)<br>20~22 (FN)<br>~30 (RN)</td></tr>
 			<tr><td>Orientation</td><td>♀</td></tr>
 		</table>
 		<hr>
@@ -23,8 +23,32 @@ slug: atsuko
 	<div class="refgallery">
 		<ul>
 		  <li>
+		    <img src="/images/references/atsuko7.png"></img>
+		    <p>RN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/atsuko5.png"></img>
+		    <p>RN Casual (alt), Loose Hair</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/atsuko3.png"></img>
+		    <p>FN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/atsuko4.png"></img>
+		    <p>FN Winter</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/atsuko6.png"></img>
+		    <p>FN Underwear</p>
+		  </li>
+		  <li>
 		    <img src="/images/references/atsuko1.png"></img>
-		    <p>WIP</p>
+		    <p>BN Uniform</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/atsuko2.png"></img>
+		    <p>BN Casual</p>
 		  </li>
 		</ul>
 	</div>

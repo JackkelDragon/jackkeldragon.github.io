@@ -23,7 +23,15 @@ slug: junka
 		<ul>
 		  <li>
 		    <img src="/images/references/junka1.png"></img>
-		    <p>WIP</p>
+		    <p>EA Uniform</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/junka2.png"></img>
+		    <p>EA Pajama, Loose Hair</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/junka_aina_10years.png"></img>
+		    <p>Junka and Aina in 2025 Concept (Hiragi-HOUX)</p>
 		  </li>
 		</ul>
 	</div>

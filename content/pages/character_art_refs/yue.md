@@ -10,7 +10,7 @@ slug: yue
 			<tr><td>Bust</td><td>A (Flat)</td></tr>
 			<tr><td>Birthdate</td><td>August 12, 1999</td></tr>
 			<tr><td>Kanji Spelling</td><td>石神ゆえ</td></tr>
-			<tr><td>Reference Age(s)</td><td>15 (EA) 25 (LD)</td></tr>
+			<tr><td>Reference Age(s)</td><td>15 (EA)<br>25 (LD)</td></tr>
 			<tr><td>Orientation</td><td>♀</td></tr>
 		</table>
 		<hr>
@@ -24,7 +24,15 @@ slug: yue
 		<ul>
 		  <li>
 		    <img src="/images/references/yue1.png"></img>
-		    <p>WIP</p>
+		    <p>LD Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/yue2.png"></img>
+		    <p>LD Work</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/yue3.png"></img>
+		    <p>LD Underwear</p>
 		  </li>
 		</ul>
 	</div>

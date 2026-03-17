@@ -10,7 +10,7 @@ slug: misaki
 			<tr><td>Bust</td><td>B (Small)</td></tr>
 			<tr><td>Birthdate</td><td>January 9, 1999</td></tr>
 			<tr><td>Kanji Spelling</td><td>麻原岬</td></tr>
-			<tr><td>Reference Age(s)</td><td>16 (EA) 19 (EU)</td></tr>
+			<tr><td>Reference Age(s)</td><td>16 (EA)<br>19 (EU)</td></tr>
 			<tr><td>Orientation</td><td>♀</td></tr>
 		</table>
 		<hr>
@@ -24,7 +24,19 @@ slug: misaki
 		<ul>
 		  <li>
 		    <img src="/images/references/misaki1.png"></img>
-		    <p>WIP</p>
+		    <p>EU Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/misaki2.png"></img>
+		    <p>EU Underwear</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/misaki3.png"></img>
+		    <p>EU Swimsuit</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/misaki4.png"></img>
+		    <p>EU Yukata</p>
 		  </li>
 		</ul>
 	</div>

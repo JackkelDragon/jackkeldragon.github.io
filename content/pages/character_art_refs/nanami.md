@@ -10,7 +10,7 @@ slug: nanami
 			<tr><td>Bust</td><td>C (Big)</td></tr>
 			<tr><td>Birthdate</td><td>December 21, 1999</td></tr>
 			<tr><td>Kanji Spelling</td><td>小林七海</td></tr>
-			<tr><td>Reference Age(s)</td><td>15 (BN) 20~21 (FN)</td></tr>
+			<tr><td>Reference Age(s)</td><td>15 (BN)<br>20~21 (FN)<br>~30 (RN)</td></tr>
 			<tr><td>Orientation</td><td>♀/♂</td></tr>
 		</table>
 		<hr>
@@ -36,7 +36,7 @@ slug: nanami
 		  </li>
 		  <li>
 		    <img src="/images/references/nanami5.png"></img>
-		    <p>FN Work Uniform</p>
+		    <p>FN Work</p>
 		  </li>
 		  <li>
 		    <img src="/images/references/nanami6.png"></img>

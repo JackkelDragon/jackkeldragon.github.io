@@ -10,7 +10,7 @@ slug: kasumi
 			<tr><td>Bust</td><td>C (Big)</td></tr>
 			<tr><td>Birthdate</td><td>June 2, 1999</td></tr>
 			<tr><td>Kanji Spelling</td><td>河村霞</td></tr>
-			<tr><td>Reference Age(s)</td><td>15~16 (EA) 18~19 (EU)</td></tr>
+			<tr><td>Reference Age(s)</td><td>15~16 (EA)<br>18~19 (EU)</td></tr>
 			<tr><td>Orientation</td><td>♀</td></tr>
 		</table>
 		<hr>
@@ -24,7 +24,19 @@ slug: kasumi
 		<ul>
 		  <li>
 		    <img src="/images/references/kasumi1.png"></img>
-		    <p>WIP</p>
+		    <p>EU Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kasumi2.png"></img>
+		    <p>EU Underwear</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kasumi3.png"></img>
+		    <p>EU Swimsuit</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kasumi4.png"></img>
+		    <p>EU Yukata</p>
 		  </li>
 		</ul>
 	</div>

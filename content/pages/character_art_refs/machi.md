@@ -23,7 +23,11 @@ slug: machi
 		<ul>
 		  <li>
 		    <img src="/images/references/machi1.png"></img>
-		    <p>WIP</p>
+		    <p>EA Uniform</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/machi2.png"></img>
+		    <p>EA Pajamas, Ponytail</p>
 		  </li>
 		</ul>
 	</div>

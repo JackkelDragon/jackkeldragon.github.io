@@ -10,7 +10,7 @@ slug: ichika
 			<tr><td>Bust</td><td>B (Small)</td></tr>
 			<tr><td>Birthdate</td><td>November 18, 2002</td></tr>
 			<tr><td>Kanji Spelling</td><td>内田一千香</td></tr>
-			<tr><td>Reference Age(s)</td><td>~24</td></tr>
+			<tr><td>Reference Age(s)</td><td>~27 (RN)</td></tr>
 			<tr><td>Orientation</td><td>♀/♂</td></tr>
 		</table>
 		<hr>
@@ -24,7 +24,11 @@ slug: ichika
 		<ul>
 		  <li>
 		    <img src="/images/references/ichika1.png"></img>
-		    <p>WIP</p>
+		    <p>RN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/ichika2.png"></img>
+		    <p>RN Underwear, Loose Hair</p>
 		  </li>
 		</ul>
 	</div>

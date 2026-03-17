@@ -10,7 +10,7 @@ slug: kiyomi
 			<tr><td>Bust</td><td>B (Small)</td></tr>
 			<tr><td>Birthdate</td><td>August 20, 1998</td></tr>
 			<tr><td>Kanji Spelling</td><td>伊藤清美</td></tr>
-			<tr><td>Reference Age(s)</td><td>17 (BN) 21~22 (FN)</td></tr>
+			<tr><td>Reference Age(s)</td><td>17 (BN)<br>21~22 (FN)<br>~31 (RN)</td></tr>
 			<tr><td>Orientation</td><td>♀/♂</td></tr>
 		</table>
 		<hr>
@@ -23,8 +23,40 @@ slug: kiyomi
 	<div class="refgallery">
 		<ul>
 		  <li>
+		    <img src="/images/references/kiyomi8.png"></img>
+		    <p>RN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kiyomi9.png"></img>
+		    <p>RN Formal</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kiyomi4.png"></img>
+		    <p>FN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kiyomi6.png"></img>
+		    <p>FN Work</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kiyomi5.png"></img>
+		    <p>FN Winter</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kiyomi7.png"></img>
+		    <p>FN Underwear, No Glasses</p>
+		  </li>
+		  <li>
 		    <img src="/images/references/kiyomi1.png"></img>
-		    <p>WIP</p>
+		    <p>BN Uniform</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kiyomi2.png"></img>
+		    <p>BN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kiyomi3.png"></img>
+		    <p>BN Sports Uniform</p>
 		  </li>
 		</ul>
 	</div>

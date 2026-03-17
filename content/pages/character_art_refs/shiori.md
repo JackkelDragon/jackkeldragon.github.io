@@ -10,7 +10,7 @@ slug: shiori
 			<tr><td>Bust</td><td>A (Flat)</td></tr>
 			<tr><td>Birthdate</td><td>January 18, 1998</td></tr>
 			<tr><td>Kanji Spelling</td><td>後藤詩織</td></tr>
-			<tr><td>Reference Age(s)</td><td>17 (BN) 22~23 (FN)</td></tr>
+			<tr><td>Reference Age(s)</td><td>17 (BN)<br>22~23 (FN)<br>~32 (RN)</td></tr>
 			<tr><td>Orientation</td><td>♀</td></tr>
 		</table>
 		<hr>
@@ -23,8 +23,28 @@ slug: shiori
 	<div class="refgallery">
 		<ul>
 		  <li>
+		    <img src="/images/references/shiori6.png"></img>
+		    <p>RN Casual, Loose Hair</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/shiori3.png"></img>
+		    <p>FN Casual, Ribbon Ponytail</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/shiori4.png"></img>
+		    <p>FN Winter, Messy Ponytail</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/shiori5.png"></img>
+		    <p>FN Underwear, Messy Ponytail</p>
+		  </li>
+		  <li>
 		    <img src="/images/references/shiori1.png"></img>
-		    <p>WIP</p>
+		    <p>BN Uniform, Ribbon Ponytail</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/shiori2.png"></img>
+		    <p>BN Casual, Messy Ponytail</p>
 		  </li>
 		</ul>
 	</div>

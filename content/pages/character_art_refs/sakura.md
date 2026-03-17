@@ -10,7 +10,7 @@ slug: sakura
 			<tr><td>Bust</td><td>B (Small)</td></tr>
 			<tr><td>Birthdate</td><td>March 19, 1999</td></tr>
 			<tr><td>Kanji Spelling</td><td>丸山幸久来</td></tr>
-			<tr><td>Reference Age(s)</td><td>21~22 (FN)</td></tr>
+			<tr><td>Reference Age(s)</td><td>21~22 (FN)<br>~31 (RN)</td></tr>
 			<tr><td>Orientation</td><td>♀</td></tr>
 		</table>
 		<hr>
@@ -23,8 +23,32 @@ slug: sakura
 	<div class="refgallery">
 		<ul>
 		  <li>
-		    <img src="/images/references/sakura1.png"></img>
-		    <p>WIP</p>
+		    <img src="/images/references/sakura7.png"></img>
+		    <p>RN Homewear (Miniskirt), Glasses</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/sakura8.png"></img>
+		    <p>RN Performance</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/sakura2.png"></img>
+		    <p>FN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/sakura3.png"></img>
+		    <p>FN Winter</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/sakura4.png"></img>
+		    <p>FN Work, Work Smile</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/sakura5.png"></img>
+		    <p>FN Homewear (Shorts)</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/sakura6.png"></img>
+		    <p>FN Underwear, Glasses</p>
 		  </li>
 		</ul>
 	</div>

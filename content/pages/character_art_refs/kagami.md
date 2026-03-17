@@ -10,7 +10,7 @@ slug: kagami
 			<tr><td>Bust</td><td>C (Big)</td></tr>
 			<tr><td>Birthdate</td><td>December 29, 1999</td></tr>
 			<tr><td>Kanji Spelling</td><td>中山鏡</td></tr>
-			<tr><td>Reference Age(s)</td><td>15 (EA) 25 (LD)</td></tr>
+			<tr><td>Reference Age(s)</td><td>15 (EA)<br>25 (LD)</td></tr>
 			<tr><td>Orientation</td><td>♀</td></tr>
 		</table>
 		<hr>
@@ -24,7 +24,15 @@ slug: kagami
 		<ul>
 		  <li>
 		    <img src="/images/references/kagami1.png"></img>
-		    <p>WIP</p>
+		    <p>LD Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kagami2.png"></img>
+		    <p>LD Work</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kagami3.png"></img>
+		    <p>LD Underwear</p>
 		  </li>
 		</ul>
 	</div>

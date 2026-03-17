@@ -10,7 +10,7 @@ slug: yae
 			<tr><td>Bust</td><td>C (Big)</td></tr>
 			<tr><td>Birthdate</td><td>June 5, 1996</td></tr>
 			<tr><td>Kanji Spelling</td><td>今井也央</td></tr>
-			<tr><td>Reference Age(s)</td><td>24~25 (FN)</td></tr>
+			<tr><td>Reference Age(s)</td><td>24~25 (FN)<br>~34 (RN)</td></tr>
 			<tr><td>Orientation</td><td>♀</td></tr>
 		</table>
 		<hr>
@@ -23,8 +23,24 @@ slug: yae
 	<div class="refgallery">
 		<ul>
 		  <li>
+		    <img src="/images/references/yae2.png"></img>
+		    <p>RN Casual, Ponytail</p>
+		  </li>
+		  <li>
 		    <img src="/images/references/yae1.png"></img>
-		    <p>WIP</p>
+		    <p>FN Performance</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/yae4.png"></img>
+		    <p>FN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/yae5.png"></img>
+		    <p>FN Winter</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/yae3.png"></img>
+		    <p>FN Underwear</p>
 		  </li>
 		</ul>
 	</div>

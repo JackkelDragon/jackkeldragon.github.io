@@ -10,7 +10,7 @@ slug: akomi
 			<tr><td>Bust</td><td>D (Large)</td></tr>
 			<tr><td>Birthdate</td><td>May 6, 1999</td></tr>
 			<tr><td>Kanji Spelling</td><td>宮崎亜子美</td></tr>
-			<tr><td>Reference Age(s)</td><td>15-16 (EA) 26 (LD)</td></tr>
+			<tr><td>Reference Age(s)</td><td>15-16 (EA)<br>26 (LD)</td></tr>
 			<tr><td>Orientation</td><td>♀/♂</td></tr>
 		</table>
 		<hr>
@@ -24,7 +24,15 @@ slug: akomi
 		<ul>
 		  <li>
 		    <img src="/images/references/akomi1.png"></img>
-		    <p>WIP</p>
+		    <p>LD Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/akomi2.png"></img>
+		    <p>LD Work</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/akomi3.png"></img>
+		    <p>LD Underwear</p>
 		  </li>
 		</ul>
 	</div>

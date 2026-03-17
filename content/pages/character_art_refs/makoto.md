@@ -9,7 +9,7 @@ slug: makoto
 			<tr><td>Height</td><td>173 cm</td></tr>
 			<tr><td>Birthdate</td><td>February 4, 1998</td></tr>
 			<tr><td>Kanji Spelling</td><td>田代允</td></tr>
-			<tr><td>Reference Age(s)</td><td>17 (Shireishi) 20s (Adult)</td></tr>
+			<tr><td>Reference Age(s)</td><td>17 (Shireishi)<br>20s (Adult)</td></tr>
 			<tr><td>Orientation</td><td>♀</td></tr>
 		</table>
 		<hr>
@@ -23,7 +23,19 @@ slug: makoto
 		<ul>
 		  <li>
 		    <img src="/images/references/makoto1.png"></img>
-		    <p>WIP</p>
+		    <p>Concept Illustration (Nii)</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/makoto2.png"></img>
+		    <p>Dyed vs. Natural Hair Comparison (Hiragi-HOUX)</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/tsukiko-makoto1.png"></img>
+		    <p>HNY Art (Hiragi-HOUX)</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/makoto3.png"></img>
+		    <p>Genderflipped Makoto Concept (Hiragi-HOUX)</p>
 		  </li>
 		</ul>
 	</div>

@@ -10,7 +10,7 @@ slug: tsukiko
 			<tr><td>Bust</td><td>D (Large)</td></tr>
 			<tr><td>Birthdate</td><td>May 22, 1998</td></tr>
 			<tr><td>Kanji Spelling</td><td>若久都綺子</td></tr>
-			<tr><td>Reference Age(s)</td><td>17 (EA) 20 (EU)</td></tr>
+			<tr><td>Reference Age(s)</td><td>17 (EA)<br>20 (EU)</td></tr>
 			<tr><td>Orientation</td><td>♂</td></tr>
 		</table>
 		<hr>
@@ -24,7 +24,19 @@ slug: tsukiko
 		<ul>
 		  <li>
 		    <img src="/images/references/tsukiko1.png"></img>
-		    <p>WIP</p>
+		    <p>EU Casual 1</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/tsukiko2.png"></img>
+		    <p>EU Casual 2, Shiny Glasses</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/tsukiko3.png"></img>
+		    <p>EU Underwear, No Glasses</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/tsukiko-makoto1.png"></img>
+		    <p>HNY Art (Hiragi-HOUX)</p>
 		  </li>
 		</ul>
 	</div>

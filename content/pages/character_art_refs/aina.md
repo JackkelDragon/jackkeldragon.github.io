@@ -23,7 +23,11 @@ slug: aina
 		<ul>
 		  <li>
 		    <img src="/images/references/aina1.png"></img>
-		    <p>WIP</p>
+		    <p>EA (v1) Uniform</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/junka_aina_10years.png"></img>
+		    <p>Junka and Aina in 2025 Concept (Hiragi-HOUX)</p>
 		  </li>
 		</ul>
 	</div>

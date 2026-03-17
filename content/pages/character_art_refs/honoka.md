@@ -10,7 +10,7 @@ slug: honoka
 			<tr><td>Bust</td><td>C (Big)</td></tr>
 			<tr><td>Birthdate</td><td>May 29, 1995</td></tr>
 			<tr><td>Kanji Spelling</td><td>中山和花</td></tr>
-			<tr><td>Reference Age(s)</td><td>20 (EA) 30 (LD)</td></tr>
+			<tr><td>Reference Age(s)</td><td>20 (EA)<br>30 (LD)</td></tr>
 			<tr><td>Orientation</td><td>♀/♂</td></tr>
 		</table>
 		<hr>
@@ -24,7 +24,7 @@ slug: honoka
 		<ul>
 		  <li>
 		    <img src="/images/references/honoka1.png"></img>
-		    <p>WIP</p>
+		    <p>EA/LD Casual</p>
 		  </li>
 		</ul>
 	</div>

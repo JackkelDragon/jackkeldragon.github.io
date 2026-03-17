@@ -10,7 +10,7 @@ slug: izumi
 			<tr><td>Bust</td><td>C (Big)</td></tr>
 			<tr><td>Birthdate</td><td>June 22, 1998</td></tr>
 			<tr><td>Kanji Spelling</td><td>河野泉</td></tr>
-			<tr><td>Reference Age(s)</td><td>17 (BN) 21~22 (FN)</td></tr>
+			<tr><td>Reference Age(s)</td><td>17 (BN)<br>21~22 (FN)<br>~31 (RN)</td></tr>
 			<tr><td>Orientation</td><td>♀</td></tr>
 		</table>
 		<hr>
@@ -28,7 +28,7 @@ slug: izumi
 		  </li>
 		  <li>
 		    <img src="/images/references/izumi9.png"></img>
-		    <p>RN Tracksuit</p>
+		    <p>RN Tracksuit, Loose Hair</p>
 		  </li>
 		  <li>
 		    <img src="/images/references/izumi2.png"></img>
@@ -44,7 +44,7 @@ slug: izumi
 		  </li>
 		  <li>
 		    <img src="/images/references/izumi8.png"></img>
-		    <p>FN Underwear</p>
+		    <p>FN Underwear, Loose Hair</p>
 		  </li>
 		  <li>
 		    <img src="/images/references/izumi5.png"></img>

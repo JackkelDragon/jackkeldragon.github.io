@@ -10,7 +10,7 @@ slug: orino
 			<tr><td>Bust</td><td>B (Small)</td></tr>
 			<tr><td>Birthdate</td><td>November 19, 1985</td></tr>
 			<tr><td>Kanji Spelling</td><td>村頭織乃</td></tr>
-			<tr><td>Reference Age(s)</td><td>34~35 (FN)</td></tr>
+			<tr><td>Reference Age(s)</td><td>34~35 (FN)<br>~44 (RN)</td></tr>
 			<tr><td>Orientation</td><td>♀/♂</td></tr>
 		</table>
 		<hr>
@@ -24,7 +24,27 @@ slug: orino
 		<ul>
 		  <li>
 		    <img src="/images/references/orino1.png"></img>
-		    <p>WIP</p>
+		    <p>RN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/orino6.png"></img>
+		    <p>RN Casual 2, Longer Hair<br>(based on younger self)</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/orino2.png"></img>
+		    <p>Tattoo Design</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/orino3.png"></img>
+		    <p>FN Casual</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/orino4.png"></img>
+		    <p>FN Winter</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/orino5.png"></img>
+		    <p>FN Underwear</p>
 		  </li>
 		</ul>
 	</div>
