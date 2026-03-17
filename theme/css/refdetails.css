@@ -149,7 +149,7 @@
 .refgallery ul::scroll-marker-group {
   position: absolute;
   position-anchor: --my-carousel;
-  top: calc(anchor(bottom) - 70px);
+  top: calc(anchor(bottom) - 55px);
   justify-self: anchor-center;
 
   display: flex;
