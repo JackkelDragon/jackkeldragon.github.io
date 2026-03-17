@@ -34,5 +34,5 @@ When I’m not working on my own projects, I spend a lot of my time playing vide
 
 <div class="logoplustext"><table><tr>
 		<td><a href="fanworks"><h2>Fanworks</h2></a></td>
-		<td>Derivative works of existing franchises.</td>
+		<td>Derivative works of existing franchises. (Fanfiction, fangames, mods, etc.)</td>
 </tr></table></div>
