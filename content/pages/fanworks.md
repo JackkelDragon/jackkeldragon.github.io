@@ -82,7 +82,7 @@ An indirect sequel to Depths of Despair, taking place about a month after the â€
 
 The paranormal troubleshooter Aiko Niwa has seen her fill of tragedy, and has taken on a new job in hopes of averting future strife: Hunt down a cursed mask. But someone or something seems to be trying to keep it from her grasp, and she must rely on a theatre troupe as one of her few leads in finding the mask before it claims more victims.
 
-Note: Work on this game has been indefinately suspended.
+Note: Work on this game has been indefinately suspended. In the meantime, a story summary with concept notes can be found [here]({filename}/cpd2m story summary.md).
 
 <hr>
 
