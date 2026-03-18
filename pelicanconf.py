@@ -40,12 +40,12 @@ DISPLAY_PAGES_ON_MENU = False
 STATIC_PATHS = ['images', "theme/css"]
 CSS_FILE = "custom.css"
 
-MENUITEMS = [("Home", "../index"), ("Nightshade", "../nightshade"), ("Kigenishi", "../kigenishi"), ("Tarishu", "../tarishu"), ("Standalone", "../standalone"), ("Fanworks", "../fanworks")]
-MENUITEMS.append(("Streaming/Presskits", "../streaming_guidelines"))
-MENUITEMS.append(("Art References", "../character-references"))
-MENUITEMS.append(("Archives", "../archives"))
-MENUITEMS.append(("Tags", "../tags"))
-MENUITEMS.append(("Updates", "../updates"))
+MENUITEMS = [("Home", "/index"), ("Nightshade", "/nightshade"), ("Kigenishi", "/kigenishi"), ("Tarishu", "/tarishu"), ("Standalone", "/standalone"), ("Fanworks", "/fanworks")]
+MENUITEMS.append(("Streaming/Presskits", "/streaming_guidelines"))
+MENUITEMS.append(("Art References", "/character-references"))
+MENUITEMS.append(("Archives", "/archives"))
+MENUITEMS.append(("Tags", "/tags"))
+MENUITEMS.append(("Updates", "/updates"))
 
 RELATIVE_URLS = False ## this broke some stuff when true
 DELETE_OUTPUT_DIRECTORY = True
@@ -72,3 +72,7 @@ MARKDOWN = {
 ## https://github.com/pelican-plugins/markdown-include
 MD_INCLUDE_BASE_PATH = "content/includes/"
 ## syntax: {!filename!}
+
+ANALYTICS = """
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="112c3af2-5747-48fb-adfd-4e6656b59158"></script>
+"""
