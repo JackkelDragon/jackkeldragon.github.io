@@ -2,7 +2,7 @@ Title: Eldritch Academy v3 Release!
 Date: 2022-3-2
 Tags: release, EA, nightshade
 
-[img wip]
+![Eldritch Academy v3 Banner](/images/posts/eav3promo6.jpg)
 
 The biggest update to Eldritch Academy is now live! This release brings us to the end (at least for now) of the long journey that started in 2013 (*pre-production*) and 2019 (*v1 release*).
 

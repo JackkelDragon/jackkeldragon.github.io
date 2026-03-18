@@ -2,7 +2,25 @@ Title: Devlog: Major Update in Production
 Date: 2020-12-1
 Tags: nightshade, devlog, EA
 
-[img set wip]
+<div class="refgallery">
+    <ul style="width:auto;">
+      <li>
+        <img src="/images/posts/eav3promo1.png"></img>
+      </li>
+      <li>
+        <img src="/images/posts/eav3promo2.png"></img>
+      </li>
+      <li>
+        <img src="/images/posts/eav3promo3.png"></img>
+      </li>
+      <li>
+        <img src="/images/posts/eav3promo4.png"></img>
+      </li>
+      <li>
+        <img src="/images/posts/eav3promo5.png"></img>
+      </li>
+    </ul>
+</div>
 
 As I've noted elsewhere, I've begun a project to revise and update Eldritch Academy to have the same style as Eldritch University. While the most obvious aspect of this update is the overhaul of many of the art assets, this update also includes a number of changes to the script and audio of the game. My hope is that this "version 3" will be either a definitive edition of the game, or else one large step towards such a product.
 

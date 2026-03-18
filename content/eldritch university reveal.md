@@ -2,7 +2,7 @@ Title: Eldritch University Reveal
 Date: 2019-5-2
 Tags: nightshade, reveal, EU
 
-[wip img]
+<img alt="Eldritch University Boxart/Cover" src="/images/cover_eldritchuniversity.png" height=450px><br>
 *The nightmare is not over...*
 
 Today I’m revealing a visual novel I’ve been working on for a little while: **Eldritch University**! It’s a sequel to Eldritch Academy, taking place about three years later. Here’s the current blurb:

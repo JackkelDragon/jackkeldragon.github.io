@@ -2,7 +2,7 @@ Title: Eldritch University Demo Update and Release Window
 Date: 2020-4-27
 Tags: updates
 
-[img wip]
+![EU Demo Screenshot](/images/posts/eu_promo_001.png)
 
 Now that the development for the game seems to be winding down toward a final build, I decided to put together an update for the demo. It covers pretty much the same content as before, but now includes the BGM tracks and all of the script tweaks from the most recent build.
 

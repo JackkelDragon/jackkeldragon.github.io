@@ -1,8 +1,8 @@
 Title: “Weather the Storm” Lyrics [Flowering Nightshade]
 Date: 2021-8-1
-Tags: nightshade
+Tags: nightshade, FN
 
-[img wip]
+<img src="/images/posts/yae_chibi.png" width=200px style="clip-path: circle(50%);display: flex;justify-content: center;">
 
 When Flowering Nightshade’s version 7 released a little over a month ago, the side story “Storm on Your Peace” closes on the first performance of the eponymous band’s debut song, which is mentioned as being named “Weather the Storm”. While the lyrics aren’t mentioned in the script, they were actually written during the process of developing the story. So, for those interested in what was being sung, I’ve decided to post the lyrics to “Weather the Storm”.
 

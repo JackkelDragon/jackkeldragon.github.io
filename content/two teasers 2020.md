@@ -1,12 +1,12 @@
 Title: Two Development Teasers
 Date: 2020-8-22
-Tags: updates
+Tags: updates, TTL, LD
 
 While my primary focus for major projects to release this year is on finalizing The Red-Haired Maiden and getting back to working on Kiku and Orino’s routes for Flowering Nightshade, there have been some other projects that I’ve been planning and/or prototyping. Their releases are still a ways off compared to the former two, but I figured it might be okay to reveal the titles and basic premises of these stories to see what people think of them.
 
 #Those That Linger
 
-[img wip]
+<img src="/images/posts/ttl-teaser-promo.png" height=400px><br>
 Concept Art for Akina and Ishiko
 
 <blockquote>
@@ -23,7 +23,7 @@ At any rate, I hope that I find a way to push forward with this game in the near
 
 #Life as Designed
 
-[img wip]
+<img src="/images/posts/ld-promo-cho.png" height=400px><br>
 Cho Fukuda, ~25 years old
 
 <blockquote>

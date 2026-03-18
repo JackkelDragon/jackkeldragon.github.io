@@ -5,6 +5,8 @@ save_as: fanworks.html
 - [Game Mods](#mods)
 - [Fanfiction](#fanfic)
 
+<hr>
+
 #Team Despair {#teamdespair}
 
 A team of two that made Corpse Party fangames, particularly the Corpse Party D2 series.
@@ -104,7 +106,9 @@ The Fifth Blight has begun, and Ferelden is caught in the midst of a civil war. 
 
 ##Kigenishi for Age of Empires III: Definitive Edition
 
-TBA
+DESC TBA
+
+[Main Page]({filename}kigenishi/aoe3de_mod.md)
 
 <hr>
 

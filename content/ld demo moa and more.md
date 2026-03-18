@@ -5,9 +5,10 @@ Tags: LD, nightshade, MoA
 As part of the process of trying to get back into creating things for public release again, I’ve been working on getting a few projects ready for something sort of like a “soft launch”. Today, we have announcements for two of those projects: Life as Designed and Mysteries of Akiramine.
 
 #Life as Designed Demo Release
-After a long wait due to creative block, I finally feel like the demo version of Life as Designed is ready for the public. Barring any issues, the demo should be available on itch.io and Steam by the end of this weekend, if not sooner. This demo allows the player to see the first three scenes of each of the main routes, which will hopefully be enough to serve as a sample of the game.
 
-[img wip]
+<img alt="Life as Designed Cover" src="/images/cover_lifeasdesigned.png" width=300px style="float:right;margin:0px 20px">
+
+After a long wait due to creative block, I finally feel like the demo version of Life as Designed is ready for the public. Barring any issues, the demo should be available on itch.io and Steam by the end of this weekend, if not sooner. This demo allows the player to see the first three scenes of each of the main routes, which will hopefully be enough to serve as a sample of the game.
 
 As a reminder of what the game is about:
 

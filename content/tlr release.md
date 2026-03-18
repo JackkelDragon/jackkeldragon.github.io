@@ -1,6 +1,6 @@
 Title: The Last Respite is Now Available
 Date: 2025-5-20
-Tags: tarishu, tlr, release
+Tags: tarishu, TLR, release
 
 The Last Respite, a fantasy romance taking place in the shadow of a cursed forest, is now available on multiple storefronts!
 

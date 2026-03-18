@@ -1,6 +1,6 @@
 Title: The Last Respite Reveal
 Date: 2025-4-2
-Tags: tarishu, tlr, reveal
+Tags: tarishu, TLR, reveal
 
 <img src="/images/cover_tlr.jpg" height=450>
 

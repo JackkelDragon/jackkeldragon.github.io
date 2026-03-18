@@ -4,7 +4,10 @@ Tags: release, RHM, kigenishi
 
 The Red-Haired Maiden is now available for purchase on Amazon Kindle! The book can be found [here](https://www.amazon.com/dp/B08RQNMLPR).
 
-[img wip]
+<div class="bookdetails">
+	<div class="promoimg"><img src="/images/cover_rhm.jpg"></div>
+	<div class="info"><div class="info2"><a href="https://books2read.com/b/3nxZ96">Where to Read</a></div></div>
+</div>
 
 <blockquote>
 <p>The island of Kigenishi is a land divided. Daimyo warlords feud over the civilized lands, while those in the frontier northern lands keep an eye out for foreign invaders.</p>

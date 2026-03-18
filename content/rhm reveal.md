@@ -2,7 +2,7 @@ Title: The Red-Haired Maiden Reveal
 Date: 2020-7-18
 Tags: reveal, RHM, kigenishi
 
-[img wip]
+<img src="/images/cover_rhm.jpg" height=450>
 
 I feel like it may be time to announce a book that has been in development for a while: **The Red-Haired Maiden**. This story is not set in the Nightshade universe, but is instead set in the world of Kigenishi. Here’s the current draft of the “back cover” description:
 
