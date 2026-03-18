@@ -12,6 +12,11 @@ body {
     background: #4D4D4D;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0.15em;
+    margin-bottom: 0.4em;
+}
+
 /* Lists */
 ul {
     list-style: outside disc;
