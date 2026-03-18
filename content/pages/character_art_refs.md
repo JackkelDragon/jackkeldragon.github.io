@@ -1,7 +1,7 @@
 Title: Character Art Reference Information
 save_as: character-references.html
 
-This page contains reference information that might be useful when creating art of certain characters from my stories. The contents of this reference information includes **spoilers** for the stories and characters involved.
+This page contains reference information that might be useful when creating art of certain characters from my stories. The contents of this reference information include <font color="red">**spoilers**</font> for the stories and characters involved.
 
 *To view larger versions of the reference images, select them and open them in a new tab.*
 
