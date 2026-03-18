@@ -1,5 +1,6 @@
 AUTHOR = 'Jackkel Dragon'
-SITENAME = "<img src=\"/images/jackkel website logo v2.png\" alt=\"Jackkel Dragon's Workshop\">" ## "Jackkel Dragon's Workshop"
+SITENAME = "Jackkel Dragon's Workshop"
+SITESUBTITLE = "<img src=\"/images/jackkel website logo v2.png\" alt=\"Jackkel Dragon's Workshop\">"
 SITEURL = ""
 
 PATH = "content"
@@ -68,6 +69,9 @@ MARKDOWN = {
   },
   'output_format': 'html5',
 }
+
+## has to be a folder on the same level as content and output
+THEME = "theme"
 
 ## https://github.com/pelican-plugins/markdown-include
 MD_INCLUDE_BASE_PATH = "content/includes/"
