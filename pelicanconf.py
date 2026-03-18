@@ -57,6 +57,18 @@ EXTRA_PATH_METADATA = {
     'images/favicon.ico': {'path': 'favicon.ico'},
 }
 
+MARKDOWN = {
+  'extension_configs': {
+    'markdown.extensions.toc': {
+      'title': '' ## no title for TOC ### invoke with a line that only says [TOC]
+    },
+    'markdown.extensions.codehilite': {'css_class': 'highlight'},
+    'markdown.extensions.extra': {},
+    'markdown.extensions.meta': {},
+  },
+  'output_format': 'html5',
+}
+
 ## https://github.com/pelican-plugins/markdown-include
 MD_INCLUDE_BASE_PATH = "content/includes/"
 ## syntax: {!filename!}
