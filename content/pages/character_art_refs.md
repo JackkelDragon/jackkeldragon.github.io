@@ -65,9 +65,9 @@ This page contains reference information that might be useful when creating art 
 #Tarishu
 *Characters originating from stories in the Tarishu setting.*
 
-- Sangmi
-- Gunnar
-- Hageum
+- [Sangmi]({filename}character_art_refs/sangmi.md)
+- [Gunnar]({filename}character_art_refs/gunnar.md)
+- [Hageum]({filename}character_art_refs/hageum.md)
 
 ***
 
