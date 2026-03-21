@@ -9,6 +9,10 @@ This page contains reference information that might be useful when creating art 
 
 ***
 
+[TOC]
+
+***
+
 #Blooming Nightshade
 *Characters originating from Blooming Nightshade or its sequel stories.*
 
@@ -23,6 +27,25 @@ This page contains reference information that might be useful when creating art 
 - [Yae Imai]({filename}character_art_refs/yae.md)
 - [Sakura Maruyama]({filename}character_art_refs/sakura.md)
 - [Ichika Uchida]({filename}character_art_refs/ichika.md)
+
+***
+
+##Storm on Your Peace
+*The other members of Yae's second band, Storm on Your Peace.*
+
+- Mizuki Kawajiri
+- Hoshiko Niiya
+- Ayame Sakurano
+
+***
+
+##Family and Others
+*Family members of the main characters that do not appear in the main games, but have designs.*
+
+- Nekana Aoki
+- Aika Uchida
+- Sumire Maruyama
+- [Asa Maruyama]({filename}character_art_refs/asa.md)
 
 ***
 
@@ -41,6 +64,17 @@ This page contains reference information that might be useful when creating art 
 - [Aina Shimizu]({filename}character_art_refs/aina.md)
 - [Aoi Matsumoto]({filename}character_art_refs/aoi.md)
 - [Miyuki Kouki]({filename}character_art_refs/miyuki.md)
+
+***
+
+##Life as Designed
+*Characters from the spinoff game, Life as Designed.*
+
+- [Ayuka Sawada]({filename}character_art_refs/ayuka.md)
+- Kotoe Sugihara
+- Miraru Fujioka
+
+<!--include yasuki, blackfox/hiyori?-->
 
 ***
 
@@ -75,7 +109,6 @@ This page contains reference information that might be useful when creating art 
 *Characters originating from other stories that have yet to be organized.*
 
 - [Tsukiko Wakahisa]({filename}character_art_refs/tsukiko.md)
-- [Ayuka Sawada]({filename}character_art_refs/ayuka.md)
 - [Makoto Tashiro]({filename}character_art_refs/makoto.md)
 - [Kyoko Hayashi]({filename}character_art_refs/kyoko.md)
 - Shizuka Hirose
@@ -86,19 +119,10 @@ This page contains reference information that might be useful when creating art 
 - Akina Komatsu
 - Ishiko Yanagi
 - Asumi Niwa
-- Kotoe Sugihara
-- Miraru Fujioka
-- Hoshiko Niiya
-- Mizuki Kawajiri
-- Nekana Aoki
-- Aika Uchida
-- Sumire Maruyama
-- [Asa Maruyama]({filename}character_art_refs/asa.md)
 - Rashmi Kushik
 - Kushik Nishav
 - Alouette Gagnon
 - Senalda de Castro y Navarro
-- Ayame Sakurano
 - Kaoru Asahara
 - Midori Ishikami
 
