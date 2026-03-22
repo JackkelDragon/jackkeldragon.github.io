@@ -87,8 +87,8 @@ This page contains reference information that might be useful when creating art 
 - [Kyoko Hayashi]({filename}character_art_refs/kyoko.md)
 - Nishie Hayashi
 - Kachi Hayashi
-- Shizuka Hirose
-- Yuri Tachibana
+- [Shizuka Hirose]({filename}character_art_refs/shizuka.md)
+- [Yuri Tachibana]({filename}character_art_refs/yuri.md)
 - Akina Komatsu
 - Ishiko Yanagi
 - Asumi Niwa
