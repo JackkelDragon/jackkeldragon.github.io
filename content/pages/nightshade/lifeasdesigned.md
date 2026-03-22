@@ -16,3 +16,9 @@ slug: lifeasdesigned
 Cho Fukuda has spent much of her adult life as a costume designer, to the point that she feels like she’s been typecast. Her motivation to work flounders until she ends up botching a commission, leaving her with no leads and the feeling that she’s made a mistake with her life.
 
 But Cho is not alone: she met someone while attending high school that became her closest friend, and their love for each other has only grown. With Cho out of a job for the time being, they will soon have to explore how their love will adjust to this new challenge.
+
+<hr>
+
+Related Games:
+
+- [Eldritch Academy]({filename}/pages/nightshade/eldritchacademy.md)

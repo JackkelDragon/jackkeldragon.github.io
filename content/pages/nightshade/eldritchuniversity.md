@@ -16,3 +16,9 @@ slug: eldritchuniversity
 *The nightmare is not over.*
 
 Kasumi Kawamura just wants to get through university while rekindling her relationship with her girlfriend. But not long after she arrives at school, a strange epidemic starts to infect the city, causing the afflicted to have terrible nightmares and lose the motivation to live their lives. Coinciding with the appearance of this “Nightmare Syndrome”, an old wound that Kasumi thought healed starts to burn and cause frightening visions to those around her. Caught in the center of this situation, Kasumi and her friends try desperately to find a solution. Yet all the while, Kasumi wonders if she might be to blame...
+
+<hr>
+
+Related Games:
+
+- [Eldritch Academy]({filename}/pages/nightshade/eldritchacademy.md)

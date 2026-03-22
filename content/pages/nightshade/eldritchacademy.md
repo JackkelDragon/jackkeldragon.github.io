@@ -19,3 +19,10 @@ slug: eldritchacademy
 Solana Academy is a prestigious all-girl boarding school in a remote corner of Japan. Despite its distance from major cities, it never wants for students or funding.
 
 However, the ideal school life at Solana Academy is disrupted by the sudden appearance of grotesque monsters from the formerly sealed-off old dormitory. A chance discovery of magical “petals” leaves four students as the only line of defense against this threat. But as the girls investigate the old dormitory for a way to be rid of the monsters, they begin to uncover a sinister truth regarding their school...
+
+<hr>
+
+Related Games:
+
+- [Eldritch University]({filename}/pages/nightshade/eldritchuniversity.md)
+- [Life as Designed]({filename}/pages/nightshade/lifeasdesigned.md)

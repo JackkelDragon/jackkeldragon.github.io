@@ -16,3 +16,9 @@ slug: floweringnightshade
 Almost five years have passed since Himeka sought friendship and romance at Solana Academy. She and her friends have grown now, and have to face their adult responsibilities.
 
 As a direct sequel to Blooming Nightshade, Flowering Nightshade continues the lighthearted romance story that began there. The player may choose to resume one of the six romantic storylines from Blooming Nightshade or begin a story featuring a new character.
+
+<hr>
+
+Related Games:
+
+- [Blooming Nightshade]({filename}/pages/nightshade/bloomingnightshade.md)
