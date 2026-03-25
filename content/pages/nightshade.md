@@ -8,6 +8,8 @@ These stories take place in the Nightshade universe, a setting based on our worl
 - Glossary
 - [Timeline]({filename}nightshade/timeline.md)
 
+<hr>
+
 #Books
 
 - [Shireishi]({filename}nightshade/shireishi.md)
@@ -15,6 +17,15 @@ These stories take place in the Nightshade universe, a setting based on our worl
 - [Family]({filename}nightshade/family.md)
 - [Those That Linger: GhostSense]({filename}nightshade/ttlgs.md)
 - [h+ Cybernetic Daily Life]({filename}nightshade/hplus1.md)
+
+<hr>
+
+#Web Stories
+
+- [Short Stories]({filename}nightshade/webstories.md)
+- [Mysteries of Akiramine]({filename}nightshade/mysteriesofakiramine.md)
+
+<hr>
 
 #Games
 
@@ -24,7 +35,8 @@ These stories take place in the Nightshade universe, a setting based on our worl
 - [Flowering Nightshade]({filename}nightshade/floweringnightshade.md)
 - [Life as Designed]({filename}nightshade/lifeasdesigned.md)
 
+<hr>
+
 #Tentative Projects
 
-- [Mysteries of Akiramine]({filename}nightshade/mysteriesofakiramine.md)
 - [Those That Linger]({filename}nightshade/ttl.md)
