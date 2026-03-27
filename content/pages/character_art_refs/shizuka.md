@@ -15,9 +15,9 @@ slug: shizuka
 		</table>
 		<hr>
 		<table class="refcolors">
-			<tr><td>Hair Color</td><td>TBA</td></tr>
-			<tr><td>Eye Color</td><td>TBA</td></tr>
-			<tr><td>Skin Tone</td><td>TBA</td></tr>
+			<tr><td>Hair Color</td><td>#964f3e</td></tr>
+			<tr><td>Eye Color</td><td>#75413b</td></tr>
+			<tr><td>Skin Tone</td><td>#ffe8d6</td></tr>
 		</table>
 	</div>
 	<div class="refgallery">
