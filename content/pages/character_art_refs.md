@@ -85,8 +85,8 @@ This page contains reference information that might be useful when creating art 
 - [Tsukiko Wakahisa]({filename}character_art_refs/tsukiko.md)
 - [Makoto Tashiro]({filename}character_art_refs/makoto.md)
 - [Kyoko Hayashi]({filename}character_art_refs/kyoko.md)
-- Nishie Hayashi
-- Kachi Hayashi
+- [Nishie Hayashi]({filename}character_art_refs/nishie.md)
+- [Kachi Hayashi]({filename}character_art_refs/kachi.md)
 - [Shizuka Hirose]({filename}character_art_refs/shizuka.md)
 - [Yuri Tachibana]({filename}character_art_refs/yuri.md)
 - Akina Komatsu
