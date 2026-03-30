@@ -38,6 +38,14 @@ slug: kyoko
 		    <img src="/images/cover_family.jpg"></img>
 		    <p>Family Cover (center) (7AHO)</p>
 		  </li>
+		  <li>
+		    <img src="/images/references/kyoko4.png"></img>
+		    <p>Dress Pattern Detail</p>
+		  </li>
+		  <li>
+		    <img src="/images/references/kyoko5.png"></img>
+		    <p>Dress Pattern Design</p>
+		  </li>
 		</ul>
 	</div>
 </div>
