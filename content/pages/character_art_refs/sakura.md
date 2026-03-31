@@ -81,4 +81,5 @@ Note: The details of Sakura’s life vary across the different world states (sto
 #Credits
 Original Design: Jackkel Dragon<br>
 FN Illustration: Nii<br>
-RN Illustration: Hornfelstone
+RN Illustration: Hornfelstone<br>
+Additional RN Outfits: KushiroJin

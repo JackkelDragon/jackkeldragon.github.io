@@ -90,4 +90,5 @@ Original Design: Hiragi-HOUX<br>
 Additional FN Outfits: Jeroz<br>
 BN/FN Illustration: Nii<br>
 RN Chibi: Hiragi-HOUX<br>
-RN Illustration: Hornfelstone
+RN Illustration: Hornfelstone<br>
+Additional RN Outfits: KushiroJin
