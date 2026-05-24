@@ -1,6 +1,6 @@
 title: Sandbox
 save_as: sandbox.html
-status: skip
+status: hidden
 
 #Fanfiction {#fanfic}
 
@@ -29,3 +29,13 @@ Read at <a href="https://archiveofourown.org/works/69764386/">Archive of Our Own
 *Exiled from her homeland for loving above her station, Mahiru intends to march to her own doom until she meets another exile, the half-oni Fumi (formerly) of the Yumeoji clan. Latching onto Fumi as a new reason to live, Mahiru and Fumi quickly become close. However, the new master of the Yumeoji clan has a grudge against Fumi and any other yokai that dares to exist in Yumeoji-controlled lands. It is only a matter of time before a confrontation between the two Yumeoji scions becomes inevitable, with Mahiru at risk of being hurt in the middle.*
 
 A short mythological fantasy focused on the world of yokai. Two outcasts meet and give each other a reason to live on, embracing the aspects that set them apart from others. But not everyone is so accepting of the existence of outsiders like yokai, and so fear and hatred threatens to bring tragedy as two heirs to a ruling clan hurtle toward a confrontation. For some, tolerance of others is impossible without first accepting their own nature.
+
+##Bumeng's Journey Begins
+
+Source Media: *Love Live! School Idol Festival ALL STARS*
+
+Coming soon...?
+
+*By refining qi, a being can rise above the state it was created in, mastering itself and the universe in the process. Shangyuan Bumeng realized this after witnessing feats of spiritual ability from a wandering cultivator, and inspired by this revelation she has set out on her own journey of enlightenment. But not all who cultivate immortality do so with such pure intentions, and there are many rivals and obstacles that may threaten Bumeng's growth. As she steps into the rivers and lakes of the spiritual realm, Bumeng must find allies and take care to defend herself against dangers that were once beyond her comprehension.*
+
+TBA
