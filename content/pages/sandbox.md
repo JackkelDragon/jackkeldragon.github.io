@@ -2,50 +2,10 @@ title: Sandbox
 save_as: sandbox.html
 status: hidden
 
-#Fanfiction {#fanfic}
+These stories take place in their own settings, with limited connection to other stories.
 
-A selection of fanfiction that can (potentially) be enjoyed even without significant knowledge of the source material. (**Be sure to check the warnings and tags before proceeding.**)
+#Blackstar Squad
 
-##Mad Scientist Kasumi
-<figure style="float:right;margin:0px 20px">
-	<img alt="Mad Scientist Kasumi" src="/images/fanfic/fanficpromo_msk.png" width=300px>
-	<figcaption style="text-align:center; font-style: italic;">(Illustration: KushiroJin)</figcaption>
-</figure>
+[Main Page]({filename}standalone/blackstarsquad.md)
 
-Source Media: *Love Live! School Idol Festival ALL STARS*
-
-Read at <a href="https://archiveofourown.org/works/70258521/">Archive of Our Own</a> (<a href="https://archiveofourown.org/collections/MadScientistKasumi">Collection</a>)
-
-*Doctor Kasumi Nakasu is a genius chemist, but few ever see her leave her research lab-slash-castle: the Diamond. Rumors abound about what kind of experiments she conducts behind the closed gates of her compound, and some claim she doesn't age like normal humans do.*
-
-*But immortality is lonely, and the mad scientist decides to create a companion for herself out of an autonomous servant. But company has its own set of troubles, as the doctor is about to discover.*
-
-A gothic fantasy set in a world where the supernatural has coexisted with the familiar until the modern era, with elements reminiscient of exploitation films and body horror. The main characters consist of a morally compromised mad scientist, a naive artificial being, an impressionable student of natural science, an overworked and underappeciated supervisor, and a technological revenant. Together, these characters must navigate through murky decisions as they seek their desires in fields where there are no moral guidelines.
-
-##The Oni of Yumeoji
-<figure style="float:right;margin:0px 20px">
-	<img alt="The Oni of Yumeoji" src="/images/fanfic/fanficpromo_oniyumeoji.png" width=300px>
-	<figcaption style="text-align:center; font-style: italic;">(Illustration: KushiroJin)</figcaption>
-</figure>
-
-Source Media: *Shoujo Kageki Revue Starlight RE:Live*
-
-Read at <a href="https://archiveofourown.org/works/69764386/">Archive of Our Own</a>
-
-*Exiled from her homeland for loving above her station, Mahiru intends to march to her own doom until she meets another exile, the half-oni Fumi (formerly) of the Yumeoji clan. Latching onto Fumi as a new reason to live, Mahiru and Fumi quickly become close. However, the new master of the Yumeoji clan has a grudge against Fumi and any other yokai that dares to exist in Yumeoji-controlled lands. It is only a matter of time before a confrontation between the two Yumeoji scions becomes inevitable, with Mahiru at risk of being hurt in the middle.*
-
-A short mythological fantasy focused on the world of yokai. Two outcasts meet and give each other a reason to live on, embracing the aspects that set them apart from others. But not everyone is so accepting of the existence of outsiders like yokai, and so fear and hatred threatens to bring tragedy as two heirs to a ruling clan hurtle toward a confrontation. For some, tolerance of others is impossible without first accepting their own nature.
-
-##Bumeng's Journey Begins
-<figure style="float:right;margin:0px 20px">
-	<img alt="Bumeng's Journey Begins" src="/images/fanfic/fanficpromo_xianxiabumeng.png" width=300px>
-	<figcaption style="text-align:center; font-style: italic;">(Illustration: Jeska)</figcaption>
-</figure>
-
-Source Media: *Love Live! School Idol Festival ALL STARS*
-
-Read at <a href="https://archiveofourown.org/works/85660681/">Archive of Our Own</a>
-
-*By refining qi, a being can rise above the state it was created in, mastering itself and the universe in the process. Shangyuan Bumeng realized this after witnessing feats of spiritual ability from a wandering cultivator, and inspired by this revelation she has set out on her own journey of enlightenment. But not all who cultivate immortality do so with such pure intentions, and there are many rivals and obstacles that may threaten Bumeng's growth. As she steps into the rivers and lakes of the spiritual realm, Bumeng must find allies and take care to defend herself against dangers that were once beyond her comprehension.*
-
-TBA
+A military drama set in a dystopian society where military might is considered the only important virtue of a good citizen, focused on a special forces squad of five women selected to perform important missions for their country. The incongruity between their role and their feelings about their government slowly erodes the confidence and hope of these women until they are only be able to rely on each other. At the same time, the disparity between the ideals of the nation and its actual effectiveness attracts the attention of those who would restore the glory of the country. With much of the government too preoccupied with frivolous wars to quell rebellious sentiments, the entire nation seems to be inexorably hurtling toward an explosion of violence. If no compromise is found, this society of warriors may end up fighting everyone, including its own.
