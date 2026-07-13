@@ -1,6 +1,6 @@
 title: Sandbox
 save_as: sandbox.html
-status: hidden
+status: skip
 
 These stories take place in their own settings, with limited connection to other stories.
 
