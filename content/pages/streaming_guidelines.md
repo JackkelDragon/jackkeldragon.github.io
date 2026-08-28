@@ -33,3 +33,6 @@ Images for use when streaming or posting about games from the Nightshade label.<
 
 ##Eldritch Academy
 [Download](/presskits/EA Presskit v2.zip)
+
+##Life as Designed
+[Download](/presskits/LD Presskit v1.zip)
