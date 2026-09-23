@@ -1,6 +1,6 @@
-Title: Blackstar Squad Announcement
+Title: Blackstar Squad Reveal
 Date: 2026-9-23
-Tags: blackstar, books, announcement
+Tags: blackstar, books, reveal
 
 Introducing a new dystopian military thriller taking place in a standalone setting: [Blackstar Squad]({filename}/pages/standalone/blackstarsquad.md)
 
@@ -10,10 +10,10 @@ The Argent Republic is a militaristic society, formed after a period of civil wa
 
 Despite these attempts to meticulously order society, the republic is under threat. Wars with neighboring nations are near-constant, leading to a systematic purge of non-Argenti ethnic groups from the population. Rebel factions of those who are disillusioned by the endless wars stage terror strikes, and the toll of these conflicts strain the morale and logistics of a nation that has never truly known peace. Even those loyal to the republic can see the cracks in the facade of Argenti dominance, and few are prepared for what may happen should it all come crashing down.
 
-***Blackstar Squad*** is the story of a team of special forces operatives in service to the Argent Republic. The main characters are:
+**Blackstar Squad** is the story of a team of special forces operatives in service to the Argent Republic. The main characters are:
 
 **Commander Hilda**<br>
-A veteran military officer who has completed her mandatory service. Hilda was born into a military family, and now she is the last surviving member after they all died in the line of duty. Having intended to leave the military to escape the constant death, she chose to remain only after being offered the command of Blackstar Squad. Having lost so many soldiers under her command, she leads with a gentle touch; bending regulations to ensure the loyalty of her subordinates.
+A veteran military officer who has completed her mandatory service. Hilda was born into a military family, and now she is the last surviving member after they all died in the line of duty. Having intended to leave the military to escape the constant death, she chose to remain only after being offered the command of Blackstar Squad. Having lost so many soldiers under her command, she leads with a gentle touch, bending regulations to ensure the loyalty of her subordinates.
 
 **Lieutenant Kristina**<br>
 An officer that was originally part of the technology division before being transferred and thus has no combat training. While a quick learner and an expert at dealing with technology, her mental state is fragile in hazardous situations. Her transfer has left her disillusioned with authority, and she despises the republic's reliance on violent force.
