@@ -12,3 +12,5 @@ The Argent Republic has always been at war. Seeking to revive the glory of an em
 Commander Hilda is the leader of Blackstar Squad, a special forces unit in the republic. Given advanced equipment and extra privileges, Blackstar seems to be a shining example of the republic's potential to reward martial excellence. But under the surface lies a different story; each of the squad's members are misfits rejected by more traditional units, and many of them distrust the senate that governs the republic. Struggling between duty and conscience in a paranoid society at war with itself, the only people these women can rely on is each other.
 
 [Blackstar Post Archives](/tag/blackstar)
+
+[Prequel Stories]({filename}blackstarsquad_prequels.md)
