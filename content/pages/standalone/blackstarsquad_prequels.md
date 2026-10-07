@@ -8,7 +8,7 @@ slug: blackstarsquad_prequels
 
 ---
 
-#Relocated
+#Relocation
 
 "Greetings, citizens of the republic. This is an official announcement. In light of recent plots by terrorists backed by the High Prince of Kelt, the senate has decreed that our capital, Aurora Argenta, will no longer welcome those of Kelti descent. We ask for everyone's full cooperation in removing these foreigners from our great city.
 
