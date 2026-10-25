@@ -6,7 +6,7 @@ Blackstar Squad, a dystopian military thriller novel, is now available as an ebo
 
 <div class="bookdetails">
 	<div class="promoimg"><img src="/images/cover_bss.png"></div>
-	<div class="info"><div class="info2"><a href="https://books2read.com/u/bp5oJJ">Where to Read</a></div></div>
+	<div class="info"><div class="info2"><a href="https://books2read.com/b/bp5oJJ">Where to Read</a></div></div>
 </div>
 
 <blockquote>

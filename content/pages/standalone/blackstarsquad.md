@@ -4,7 +4,7 @@ slug: blackstarsquad
 
 <div class="bookdetails">
 	<div class="promoimg"><img src="/images/cover_bss.png"></div>
-	<div class="info"><h1>Blackstar Squad</h1><div class="info2"><a href="https://books2read.com/u/bp5oJJ">Where to Read</a></div><p>Cover Design: J.N. Ignacio</p></div>
+	<div class="info"><h1>Blackstar Squad</h1><div class="info2"><a href="https://books2read.com/b/bp5oJJ">Where to Read</a></div><p>Cover Design: J.N. Ignacio</p></div>
 </div>
 
 <blockquote>
