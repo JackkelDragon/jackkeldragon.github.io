@@ -6,7 +6,7 @@ slug: floweringnightshade
 	<div class="promoimg"><img src="/images/cover_floweringnightshade.png"></div>
 	<div class="info"><h1>Flowering Nightshade</h1>
 		<p>Release Date: May 2021<br>
-			Current Version: v8<br>
+			Current Version: v9<br>
 			Price: Free/Donation</p>
 		<a href="https://jackkel-dragon.itch.io/flowering-nightshade"><img src="/images/itchbadge.png" width=180></a>
 		<a href="https://store.steampowered.com/app/1652030/Flowering_Nightshade/"><img src="/images/steambadge.png" width=180></a>
